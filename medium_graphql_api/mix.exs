@@ -46,8 +46,8 @@ defmodule MediumGraphqlApi.MixProject do
       {:comeonin, "~> 5.3"},
       {:argon2_elixir, "~> 2.0"},
       {:guardian, "~> 2.1.1"},
-      {:absinthe, "~> 1.5.0"},
-      {:absinthe_plug, "~> 1.4.0"},
+      {:absinthe, "~> 1.4"},
+      {:absinthe_plug, "~> 1.4.5"},
       {:dataloader, "~> 1.0.0"}
     ]
   end
